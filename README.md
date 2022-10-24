@@ -10,7 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fresh791&repo=Fading-Revelations)](https://github.com/Fresh791/Fading-Revelations)
   
-  Also if you are interested in Mindustry or my mod(s), you are free to join my Discord server!
+  Also if you are interested in Mindustry or my mod(s), <br> 
+  you are free to join my Discord server!
   
   https://discord.gg/YB3ky9tJR4
   
