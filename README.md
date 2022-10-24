@@ -13,6 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fresh791&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fresh791)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fresh791&repo=Fading-Revelations)](https://github.com/Fresh791/Fading-Revelations)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fresh791&repo=Floatydustry)](https://github.com/Fresh791/Floatydustry)
