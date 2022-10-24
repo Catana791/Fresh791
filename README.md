@@ -23,6 +23,9 @@
   https://discord.gg/YB3ky9tJR4
   
   ![Discord Banner 4](https://discordapp.com/api/guilds/815981543624933396/widget.png?style=banner4)
+  
+  ===============================================
+
 
 <!---
 Fresh791/Fresh791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
