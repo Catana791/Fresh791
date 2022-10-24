@@ -2,7 +2,7 @@
   
  ===============================================
       
-  Hello! I am a json modder for the game [Beschriftung des Hyperlinks](https://github.com/Anuken/Mindustry/ "Mindustry Repository")  <br>
+  Hello! I am a json modder for the game [Mindustry](https://github.com/Anuken/Mindustry/ "Mindustry Repository")  <br>
   and the head dev of [Fading Revelations](https://github.com/Fresh791/Fading-Revelations/ "Fading Revelations Repository") and [Floatydustry](https://github.com/Fresh791/Floatydustry/ "Floatydustry Repository") !
   
   If you like you can talk to me, I don't bite ^_^
