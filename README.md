@@ -1,4 +1,4 @@
-<div allign = center>
+<div align = center>
   
       
   Hello! I am a json modder for the game Mindustry <br>
