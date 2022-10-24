@@ -13,6 +13,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fresh791&repo=Fading-Revelations)](https://github.com/Fresh791/Fading-Revelations)
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fresh791&repo=Floatydustry)](https://github.com/Fresh791/Floatydustry)
+  
    
   ===============================================
   
